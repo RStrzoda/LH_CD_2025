@@ -6,7 +6,7 @@ Python versão 3.11
 
 Bibliotecas utilizadas: Pandas, sklearn, numpy, matplotlib, seaborn, scipy (presentes no arquivo requirements.txt)
 
-Modelo presente junto ao EDA no jupyter notebook!
+### Modelo presente junto ao EDA no jupyter notebook!
 
 Para rodar o modelo:
 
